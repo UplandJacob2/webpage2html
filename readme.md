@@ -3,6 +3,8 @@
 
 [![Build Status](https://travis-ci.org/zTrix/webpage2html.png)](https://travis-ci.org/zTrix/webpage2html)
 
+This fork has a  workflow that runs the program. That's it.
+
 ## Webpage2html: Save web page to a single html file
 
 This is a simple script to save a web page to a single html file. No mhtml or pdf stuff, no xxx_files directory, just one single readable and editable html file.
